@@ -1,0 +1,35 @@
+mode = "dark"
+
+# Argent pack — praetor green + hellfire orange on void black
+accent = "#6BAF3A"
+selection = "#1A220C"
+muted = "#5A5840"
+
+background = "#0A0806"
+dark_background = "#060504"
+darker_background = "#030201"
+lighter_background = "#1A1410"
+
+foreground = "#F0ECD8"
+dark_foreground = "#7A7660"
+light_foreground = "#D4D0B8"
+bright_foreground = "#FFFFFF"
+
+hyprland_active_border = "rgba(6BAF3Aee) rgba(E85A1Cee) 45deg"
+hyprland_inactive_border = "rgba(1A220Caa)"
+
+red = "#C83028"
+yellow = "#E8B820"
+orange = "#E85A1C"
+green = "#6BAF3A"
+cyan = "#00C8E0"
+blue = "#3A6ABA"
+magenta = "#C45A3A"
+brown = "#6B3A1A"
+
+bright_red = "#E85850"
+bright_yellow = "#F0D040"
+bright_green = "#8ACC5A"
+bright_cyan = "#66E0F5"
+bright_blue = "#5A8ABA"
+bright_magenta = "#E08060"
