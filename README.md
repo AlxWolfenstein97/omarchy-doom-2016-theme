@@ -4,9 +4,9 @@ Remember the Jump 'n' Shoot? The Secrets? The Industrial Glitch Metal?
 Sadly Mick Gordon hasn't figured out how to get into our hypr systems, oh
 well, that's what cliamp is for. What if your desktop matched that
 praetor-green HUD on hellfire orange instead of another flat dark mode that
-could belong to anyone? Hyprland’s active border runs the same dual-accent
-trick as the asphalt night pack, the HEV suit, Galuga, Counter-Strike, and
-Cyber Shadow: **praetor green → hellfire orange** at 45°.
+could belong to anyone? Hyprland’s active border runs the same dual-accent trick as
+Asphalt, HEV, Galuga, CS, Cyber Shadow, Eternal, Caged, KI, Rising, Stanley, SF6, T2D & USFIV:
+**praetor green → hellfire orange** at 45°.
 
 Slayer theme for [Omarchy](https://omarchy.org/). Inspired by the look of
 *DOOM (2016)* — **not affiliated with id Software or Bethesda Softworks** (see
